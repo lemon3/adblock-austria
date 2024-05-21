@@ -3,5 +3,4 @@
 ||derstandard.at/qpkdl/
 ||at.staticfiles.at/js/framework-no-migration*
 [derstandard.at,derstandard.de]#%#//scriptlet('set-local-storage-item', 'zonck', '$remove$')
-[derstandard.at,derstandard.de]#%#//scriptlet('remove-cookie', 'example')
-
+[derstandard.at,derstandard.de]#%#//scriptlet('remove-cookie', 'zonck')
