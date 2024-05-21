@@ -22,3 +22,5 @@ sn.at##[id^="Advertorial"]
 sn.at##[id^="Medium_Rectangle"]
 sn.at##[id^="ad-medium-rectangle"]
 sn.at##.box-piano
+sn.at##.box-superbanner
+sn.at###piano_wrapper
