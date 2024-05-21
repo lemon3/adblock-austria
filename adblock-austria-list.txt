@@ -10,3 +10,12 @@
 ||at.staticfiles.at/js/framework-no-migration*
 [derstandard.at,derstandard.de]#%#//scriptlet('set-local-storage-item', 'zonck', '$remove$')
 [derstandard.at,derstandard.de]#%#//scriptlet('remove-cookie', 'zonck')
+
+
+! kurier.at
+||kurier.at##[data-ad]
+
+! sn.at
+||sn.at##[id^="Advertorial"]
+||sn.at##[id^="Medium_Rectangle"]
+||sn.at##[id^="ad-medium-rectangle"]
