@@ -24,3 +24,7 @@ sn.at##[id^="ad-medium-rectangle"]
 sn.at##.box-piano
 sn.at##.box-superbanner
 sn.at###piano_wrapper
+
+! on.orf.at
+||on.orf.at/_nuxt/DisplayBanner*
+||data-d6e13c60e8.orf.at/iomm/latest/manager/base/es6/bundle.js$script,domain=on.orf.at
