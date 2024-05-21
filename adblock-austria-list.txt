@@ -13,9 +13,9 @@
 
 
 ! kurier.at
-||kurier.at##[data-ad]
+kurier.at##div[data-ad]
 
 ! sn.at
-||sn.at##[id^="Advertorial"]
-||sn.at##[id^="Medium_Rectangle"]
-||sn.at##[id^="ad-medium-rectangle"]
+sn.at##[id^="Advertorial"]
+sn.at##[id^="Medium_Rectangle"]
+sn.at##[id^="ad-medium-rectangle"]
