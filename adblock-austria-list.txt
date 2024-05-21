@@ -11,6 +11,8 @@
 [derstandard.at,derstandard.de]#%#//scriptlet('set-local-storage-item', 'zonck', '$remove$')
 [derstandard.at,derstandard.de]#%#//scriptlet('remove-cookie', 'zonck')
 
+!krone.at
+||sp-script.krone.at/snowplow.js$script,domain=www.krone.at
 
 ! kurier.at
 kurier.at##div[data-ad]
@@ -19,3 +21,4 @@ kurier.at##div[data-ad]
 sn.at##[id^="Advertorial"]
 sn.at##[id^="Medium_Rectangle"]
 sn.at##[id^="ad-medium-rectangle"]
+sn.at##.box-piano
